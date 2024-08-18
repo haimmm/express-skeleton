@@ -24,7 +24,11 @@ To set up the project locally, follow these steps:
    git clone https://github.com/yourusername/yourproject.git
    ```
 
-##🚀 How to Run
+## 🚀 How to Run
 
-1. Navigate to teh repository
-2. run command npm start
+1. **Navigate to teh repository**
+2. **run the following command**
+
+```bash
+npm start
+```
