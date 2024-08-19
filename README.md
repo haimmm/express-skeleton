@@ -26,9 +26,11 @@ To set up the project locally, follow these steps:
 
 ## 🚀 How to Run
 
-1. **Navigate to teh repository**
+1. **Navigate to the repository**
 2. **run the following command**
 
 ```bash
-npm start
+npm run dev - run ts with nodemon
+npm run build - convert ts to js
+npm run start - run js build
 ```
